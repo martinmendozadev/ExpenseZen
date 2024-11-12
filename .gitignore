@@ -98,7 +98,6 @@ Temporary Items
 
 # Ruby specific
 *.gem
-.ruby-version
 .ruby-gemset
 /InstalledFiles
 /spec/reports/
